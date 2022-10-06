@@ -4,9 +4,10 @@ My name is Ewan.
 
 I am currently live with my family in [Auckland](https://en.wikipedia.org/wiki/Auckland).
 
-- 🌱 I’m currently learning blockchain and web3.
+🌱 I’m currently learning blockchain and web3.
 
-- 💬 Ask me about 
+💬 Ask me about anything
+
 You can find me on [Twitter](http://twitter.com/iiiyu_eth), or
 just [send me an email](mailto:yu@ohmyapps.com)
 
