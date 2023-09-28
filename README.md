@@ -2,7 +2,7 @@ Hey there 👋
 
 My name is Ewan.
 
-I’m a software engineer with twelve years of experience developing web applications and services, as well as providing technical leadership for small teams of software developers.
+I’m a software engineer with thirteen years of experience developing web applications and services, as well as providing technical leadership for small teams of software developers.
 
 I’ve recently used Go. I’ve also written Elixir, Python, TypeScript, HTML. I learn quickly, care about detail, and love every new technology.
 
