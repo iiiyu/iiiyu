@@ -2,14 +2,17 @@ Hey there 👋
 
 My name is Ewan.
 
-I am currently live with my family in [Auckland](https://en.wikipedia.org/wiki/Auckland).
+I’m a software engineer with twelve years of experience developing web applications and services, as well as providing technical leadership for small teams of software developers.
 
-🌱 I’m currently learning blockchain and web3.
+I’m recently in Go, Python. I’ve also written a good amount of Elixir, TypeScript, HTML. I learn quickly, care about detail, and love every new technology.
+
+I currently live with my family in [Auckland](https://en.wikipedia.org/wiki/Auckland).
+
+🌱 I’m currently learning how to make a LLM application.
 
 💬 Ask me about anything
 
-You can find me on [Twitter](http://twitter.com/iiiyu_eth), or
-just [send me an email](mailto:yu@ohmyapps.com)
+You can [send me an email](mailto:yu@ohmyapps.com)
 
 ## Stats
 
