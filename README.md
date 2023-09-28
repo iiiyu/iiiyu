@@ -4,7 +4,7 @@ My name is Ewan.
 
 I’m a software engineer with twelve years of experience developing web applications and services, as well as providing technical leadership for small teams of software developers.
 
-I’ve recently used Go. I’ve also written a good amount of Elixir, Python, TypeScript, HTML. I learn quickly, care about detail, and love every new technology.
+I’ve recently used Go. I’ve also written Elixir, Python, TypeScript, HTML. I learn quickly, care about detail, and love every new technology.
 
 I currently live with my family in [Auckland](https://en.wikipedia.org/wiki/Auckland).
 
